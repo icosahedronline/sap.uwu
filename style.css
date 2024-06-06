@@ -1,0 +1,14 @@
+
+header {
+    direction: column;
+    align-items: center;
+    margin: 40px;
+}
+
+main {
+    direction: column;
+}
+
+p {
+    font-size: 12px;
+}
